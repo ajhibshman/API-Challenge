@@ -56,7 +56,7 @@ For the Southern Hemisphere the r-value is -.13 showing little to no correlation
 
 ![north_cld](https://github.com/ajhibshman/API-Challenge/blob/main/WeatherPy/images/north_lat_cloud.png)
 
-![south_cld](https://github.com/ajhibshman/API-Challenge/blob/main/WeatherPy/images/south_lat_cloud.png)
+![south_cld](https://github.com/ajhibshman/API-Challenge/blob/main/WeatherPy/images/south_lat_cloud.PNG)
 
 Figures 11,12:  Wind Speed vs. Latitude in each hemisphere
 
