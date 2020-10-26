@@ -54,9 +54,9 @@ For the Northern Hemisphere the r-value is +.27 showing little to no correlation
 For the Southern Hemisphere the r-value is -.13 showing little to no correlation
 
 
-![north_hum](https://github.com/ajhibshman/API-Challenge/blob/main/WeatherPy/images/north_lat_cloud.png)
+![north_cld](https://github.com/ajhibshman/API-Challenge/blob/main/WeatherPy/images/north_lat_cloud.png)
 
-![south_hum](https://github.com/ajhibshman/API-Challenge/blob/main/WeatherPy/images/south_lat_cloud.png)
+![south_cld](https://github.com/ajhibshman/API-Challenge/blob/main/WeatherPy/images/south_lat_cloud.png)
 
 Figures 11,12:  Wind Speed vs. Latitude in each hemisphere
 
@@ -81,7 +81,9 @@ Data was filtered to include locations with 'Optimal' weather for a vacation, re
 
 Hotels nearest to the center of each city were then plotted against the map with marker labels.
 
-![htl_map](https://github.com/ajhibshman/API-Challenge/blob/main/VacationPy/images/hotels2.png)
+![htl_map](https://github.com/ajhibshman/API-Challenge/blob/main/VacationPy/images/hotels2.PNG)
+
+
 
 
 
