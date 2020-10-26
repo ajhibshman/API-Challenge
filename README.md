@@ -81,7 +81,9 @@ Data was filtered to include locations with 'Optimal' weather for a vacation, re
 
 Hotels nearest to the center of each city were then plotted against the map with marker labels.
 
-![htl_map](https://github.com/ajhibshman/API-Challenge/blob/main/VacationPy/images/hotels.PNG)
+![htl_map](https://github.com/ajhibshman/API-Challenge/blob/main/VacationPy/images/hotels2.png)
+
+
 
 
                
